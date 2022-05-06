@@ -1,0 +1,2 @@
+# transpozu
+dizilerin transpozunu bulma
